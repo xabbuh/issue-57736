@@ -1,0 +1,17 @@
+{
+    "name": "christianflothmann/issue-57736",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Flothmann",
+            "email": "christian.flothmann@qossmic.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^7.1"
+    }
+}

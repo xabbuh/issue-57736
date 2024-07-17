@@ -1,0 +1,2 @@
+tables:
+    !php/const App\PixieInterface::IMAGE_TABLE: []
